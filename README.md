@@ -1,1 +1,5 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=23326467&assignment_repo_type=AssignmentRepo)
+Katarina Gordić 41/2023 RN
+
+- U projektu su implementirani svi zadaci (1, 2 i 3)
+- Podaci (BCF i TSV) nisu uključeni u repozitorijum zbog veličine. Očekuje se da se nalaze u folderu "podaci/".
+- AI alati su korišćeni za pomoć u razumevanju biološkog konteksta zadataka, kao i za debugovanje tokom implementacije prvog zadatka, gde su zbog ograničenja memorije i dugog vremena izvršavanja u Colab-u dodavani ispisi za praćenje progresa i procenu opterećenja memorije.
