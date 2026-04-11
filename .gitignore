@@ -1,0 +1,6 @@
+podaci/
+rezultati/
+*.bcf
+*.tsv
+*.feather
+__pycache__/
