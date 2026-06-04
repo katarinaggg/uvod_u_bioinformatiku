@@ -1,0 +1,10 @@
+{
+  "fastqc_r1": "results/01_fastqc/sample_0.chrom11.exome.pe1_fastqc.html",
+  "fastqc_r2": "results/01_fastqc/sample_0.chrom11.exome.pe2_fastqc.html",
+  "bam_sorted": "results/02_alignment/aligned.sorted.bam",
+  "bam_markdup": "results/03_mark_duplicates/marked_duplicates.bam",
+  "bam_recalibrated": "results/04_bqsr/recalibrated.bam",
+  "vcf_raw": "results/05_variant_calling/raw_variants.vcf.gz",
+  "vcf_filtered": "results/06_hard_filtering/filtered_variants.vcf.gz",
+  "vcf_pass": "results/07_pass_variants/pass_variants.vcf.gz"
+}
